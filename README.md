@@ -19,8 +19,8 @@ This is a **Responsive Landing Page** built using **HTML** and **CSS**, designed
 
 ## 📷 Preview
 
-![Landing page](./preview.png)
-![Mobile first view ](./preview1.png)
+![Landing page](./preview.PNG)
+![Mobile first view ](./preview1.PNG)
 
 
 ## 📁 Project Structure
