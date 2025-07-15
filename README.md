@@ -35,4 +35,9 @@ responsive-landing-page/
 
 └── README.md
 
+📄 License
+This project is open-source and free to use. Feel free to fork and customize!
+
+Made with ❤️ by Madan Lal
+
 
