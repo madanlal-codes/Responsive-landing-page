@@ -35,9 +35,26 @@ responsive-landing-page/
 
 └── README.md
 
+
+## 🧑‍💻 How to Use
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/madanlal.codes/responsive-landing-page.git
+Open the project
+Open index.html in your browser.
+
+Customize
+Modify text, styles, or images to fit your needs.
+
+✅ To-Do
+1. Add mobile toggle functionality to the hamburger menu
+
+2. Improve accessibility (ARIA roles, alt texts, etc.)
+
+3. Add animations for better UX
+
 📄 License
 This project is open-source and free to use. Feel free to fork and customize!
 
-Made with ❤️ by Madan Lal
-
-
+Made with ❤️ by Your Name
