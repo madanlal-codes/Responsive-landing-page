@@ -57,4 +57,4 @@ Modify text, styles, or images to fit your needs.
 📄 License
 This project is open-source and free to use. Feel free to fork and customize!
 
-Made with ❤️ by Your Name
+Made with ❤️ by Madan Lal
